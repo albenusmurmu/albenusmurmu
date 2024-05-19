@@ -8,4 +8,4 @@ I'm a computer science student who is passionate about writing code, solving pro
 - 📚 I’m currently exploring distributed system and eager to learn system design.
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/albenus-murmu-339ba128a/) !
 <!-- - 👯 I’m looking for a software development internship. -->
-  ![image](https://user-images.githubusercontent.com/20955511/183303699-fdd92594-83ca-486f-9ed4-a555f674d59a.png)
+  ![image](https://user=albenusmurmu&images.githubusercontent.com/20955511/183303699-fdd92594-83ca-486f-9ed4-a555f674d59a.png)
