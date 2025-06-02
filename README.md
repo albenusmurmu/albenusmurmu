@@ -29,7 +29,7 @@
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6A95BD&width=435&lines=%F0%9F%94%A5+Follow+Me+For+More!+%F0%9F%9A%80;Made+With+Love+and+Code+%E2%9D%A4%EF%B8%8F" alt="WOW Badge" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=18D115&width=435&lines=%F0%9F%94%A5+Follow+Me+For+More!+%F0%9F%9A%80;Made+With+Love+and+Code+%E2%9D%A4%EF%B8%8F" alt="WOW Badge" />
 
 ---
 <p align="left">
@@ -43,3 +43,8 @@
 
 ```
 Made with 💖 by Albenus Peter
+```
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=albenusmurmu&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
+</p>
+
