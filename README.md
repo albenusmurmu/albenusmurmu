@@ -2,12 +2,9 @@
 <h1 align="center">Hi 👋, I'm Albenus Murmu</h1>
 <h3 align="center">I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.</h3>
 
+---
+
 <img width="28%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
-
-![🔥 WOW Badge 🔥](https://media.giphy.com/media/3og0IPxMM0erATueVW/giphy.gif)
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=%F0%9F%94%A5+Follow+Me+For+More!+%F0%9F%9A%80;Made+With+Love+and+Code+%E2%9D%A4%EF%B8%8F" alt="WOW Badge" />
-
 
 - 🔭 I’m currently working on my startup [SonyCom](https://my-portfolio-g1uw.onrender.com)
 
@@ -32,6 +29,10 @@
 
 ---
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6A95BD&width=435&lines=%F0%9F%94%A5+Follow+Me+For+More!+%F0%9F%9A%80;Made+With+Love+and+Code+%E2%9D%A4%EF%B8%8F" alt="WOW Badge" />
+
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/albenusm@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="albenusm@gmail.com" height="30" width="40" /></a>
@@ -41,7 +42,5 @@
 <a href="https://instagram.com/albenus.pieter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="albenus.pieter" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/aaah2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aaah2" height="30" width="40" /></a>
 </p>
-
----
 
 Made with 💖 by Albenus Peter
