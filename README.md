@@ -1,23 +1,19 @@
 <p><img src="https://camo.githubusercontent.com/ffa1dd41670258e216cfa7e0d381009c47fd42716bc242ff9014635cfe19b57e/68747470733a2f2f6a6179616d776562736f6c7574696f6e732e636f6d2f696d616765732f776562736974652e676966" /> </p>
-
-<img 
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6A95BD&width=435&lines=Hi 👋,+%F0%9F%91%8B%2C+I'm+Albenus+Murmu" 
-  alt="Typing Badge - Hi I'm Albenus" 
-/>
-
+<h1 align="center">Hi 👋, I'm Albenus Murmu</h1>
 <h3 align="center">I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.</h3>
 
-<p></p>
+---
 
 <img width="28%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
 - 🔭 I’m currently working on my startup [SonyCom](https://my-portfolio-g1uw.onrender.com)
 
-- 🌱 I’m currently learning **AWS Claude**
+- 🌱 I’m currently learning **AWS Cloude**
 
 - 💬 Ask me about **MERN Stack Development**
 
-- 📫 How to reach me **albenusm@gmail.com**  
+- 📫 How to reach me **albenusm@gmail.com**
+  
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,9 +21,11 @@
 
 ---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=albenusmurmu&" alt="albenusmurmu" /></p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=albenusmurmu&show_icons=true&locale=en&layout=compact" alt="albenusmurmu" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=albenusmurmu&show_icons=true&locale=en" alt="albenusmurmu" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=albenusmurmu&" alt="albenusmurmu" /></p>
 
 ---
 
@@ -43,9 +41,5 @@
 <a href="https://www.youtube.com/c/aaah2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aaah2" height="30" width="40" /></a>
 </p>
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=albenusmurmu&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
-</p>
-
-
-**Made with 💖 by Albenus Peter**
+```
+Made with 💖 by Albenus Peter
