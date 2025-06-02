@@ -1,5 +1,16 @@
 <p><img src="https://camo.githubusercontent.com/ffa1dd41670258e216cfa7e0d381009c47fd42716bc242ff9014635cfe19b57e/68747470733a2f2f6a6179616d776562736f6c7574696f6e732e636f6d2f696d616765732f776562736974652e676966" /> </p>
 <h1 align="center">Hi 👋, I'm Albenus Murmu</h1>
+
+<h1 align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DAE8F5&width=435&lines=%F0%9F%94%A5+Hi+👋+,+I'm+Albenus+Murmu+%F0%9F%9A%80" 
+    alt="WOW Badge" 
+  />
+</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=albenusmurmu&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
+</p>
 <h3 align="center">I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.</h3>
 
 ---
@@ -8,7 +19,7 @@
 
 - 🔭 I’m currently working on my startup [SonyCom](https://my-portfolio-g1uw.onrender.com)
 
-- 🌱 I’m currently learning **AWS Cloude**
+- 🌱 I’m currently learning **AWS Claude**
 
 - 💬 Ask me about **MERN Stack Development**
 
@@ -20,13 +31,14 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=albenusmurmu&show_icons=true&locale=en&layout=compact" alt="albenusmurmu" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=albenusmurmu&" alt="albenusmurmu" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=albenusmurmu&show_icons=true&locale=en&layout=compact" alt="albenusmurmu" /></p>
 
 ---
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6A95BD&width=435&lines=%F0%9F%94%A5+Follow+Me+For+More!+%F0%9F%9A%80;Made+With+Love+and+Code+%E2%9D%A4%EF%B8%8F" alt="WOW Badge" />
+
 ---
 <p align="left">
 <a href="https://linkedin.com/in/albenusm@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="albenusm@gmail.com" height="30" width="40" /></a>
@@ -37,5 +49,5 @@
 <a href="https://www.youtube.com/c/aaah2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aaah2" height="30" width="40" /></a>
 </p>
 
-```
-Made with 💖 by Albenus Peter
+
+**Made with 💖 by Albenus Peter**
