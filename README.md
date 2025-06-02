@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on my startup [SonyCom](https://my-portfolio-g1uw.onrender.com)
 
-- 🌱 I’m currently learning **AWS Cloude**
+- 🌱 I’m currently learning **AWS Claude**
 
 - 💬 Ask me about **MERN Stack Development**
 
@@ -42,7 +42,7 @@
 </p>
 
 ```
-Made with 💖 by Albenus Peter
+with 💖 by Albenus Peter
 ```
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=albenusmurmu&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
