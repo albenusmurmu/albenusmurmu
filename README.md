@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on my startup [SonyCom](https://my-portfolio-g1uw.onrender.com)
 
-- 🌱 I’m currently learning **AWS Claude**
+- 🌱 I’m currently learning **AWS Cloud**
 
 - 💬 Ask me about **MERN Stack Development**
 
