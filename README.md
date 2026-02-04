@@ -22,14 +22,6 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=albenusmurmu&show_icons=true&locale=en&layout=compact" alt="albenusmurmu" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=albenusmurmu&show_icons=true&locale=en" alt="albenusmurmu" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=albenusmurmu&" alt="albenusmurmu" /></p>
-
----
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=18D115&width=435&lines=%F0%9F%94%A5+Follow+Me+For+More!+%F0%9F%9A%80;Made+With+Love+and+Code+%E2%9D%A4%EF%B8%8F" alt="WOW Badge" />
 
 ---
