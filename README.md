@@ -11,7 +11,8 @@
 - 🌱 I’m currently learning **AWS Cloud**
 
 - 💬 Ask me about **MERN Stack Development**
-
+- 💬 Ask me about **Python Django**
+- 💬 Ask me about **Software**
 - 📫 How to reach me **albenusm@gmail.com**
   
 
