@@ -48,20 +48,19 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=albenusmurmu&theme=react-dark&hide_border=true"/>
 </p>
+---
+## 🤝 Connect With Me
 
-<p align="left">
-<a href="https://linkedin.com/in/albenusm@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="albenusm@gmail.com" height="30" width="40" /></a>
-<a href="https://twitter.com/albenusmur63460" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="albenusmur63460" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/albenusm@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="albenusm@gmail.com" height="30" width="40" /></a>
-<a href="https://fb.com/albenus.murmu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="albenus.murmu" height="30" width="40" /></a>
-<a href="https://instagram.com/albenus.pieter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="albenus.pieter" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/aaah2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aaah2" height="30" width="40" /></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/albenusm)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/albenusmur63460)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/albenus.pieter)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/aaah2)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/albenusm)
 
-```
-with 💖 by Albenus Peter
-```
-<p align="left">
+---
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=albenusmurmu&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
 </p>
 
+<p align="center">Made with 💖 by Albenus Murmu</p>
