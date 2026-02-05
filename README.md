@@ -25,6 +25,30 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=18D115&width=435&lines=%F0%9F%94%A5+Follow+Me+For+More!+%F0%9F%9A%80;Made+With+Love+and+Code+%E2%9D%A4%EF%B8%8F" alt="WOW Badge" />
 
 ---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=albenusmurmu&show_icons=true&theme=radical&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albenusmurmu&layout=compact&theme=radical&hide_border=true" height="180"/>
+</p>
+---
+<h2 align="center">🔥 Contribution Streak</h2>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=albenusmurmu&theme=radical&hide_border=true"/>
+</p>
+---
+<h2 align="center">🏆 GitHub Achievements</h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=albenusmurmu&theme=radical&no-frame=true&row=1&column=6"/>
+</p>
+---
+<h2 align="center">📈 Contribution Activity</h2>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=albenusmurmu&theme=react-dark&hide_border=true"/>
+</p>
+---
 <p align="left">
 <a href="https://linkedin.com/in/albenusm@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="albenusm@gmail.com" height="30" width="40" /></a>
 <a href="https://twitter.com/albenusmur63460" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="albenusmur63460" height="30" width="40" /></a>
