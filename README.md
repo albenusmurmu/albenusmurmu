@@ -25,7 +25,17 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=18D115&width=435&lines=%F0%9F%94%A5+Follow+Me+For+More!+%F0%9F%9A%80;Made+With+Love+and+Code+%E2%9D%A4%EF%B8%8F" alt="WOW Badge" />
 
 
-<h2 align="center">📊 GitHub Stats</h2> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=albenusmurmu&show_icons=true&theme=radical" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albenusmurmu&layout=compact&theme=radical" /> </p> <h2 align="center">🔥 Contribution Streak</h2> <p align="center"> <img src="https://streak-stats.demolab.com?user=albenusmurmu&theme=radical" /> </p> <h2 align="center">🏆 GitHub Achievements</h2> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=albenusmurmu&theme=radical&row=1&column=6" /> </p> <h2 align="center">📈 Contribution Activity</h2> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=albenusmurmu&theme=react-dark" /> </p>
+<h2 align="center">📊 GitHub Stats</h2> 
+<p align="center"> 
+<img src="https://github-readme-stats.vercel.app/api?username=albenusmurmu&show_icons=true&theme=radical" /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albenusmurmu&layout=compact&theme=radical" /> 
+</p> 
+<h2 align="center">🔥 Contribution Streak</h2> 
+<p align="center"> <img src="https://streak-stats.demolab.com?user=albenusmurmu&theme=radical" /> </p> 
+<h2 align="center">🏆 GitHub Achievements</h2> 
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=albenusmurmu&theme=radical&row=1&column=6" /> </p> 
+<h2 align="center">📈 Contribution Activity</h2> 
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=albenusmurmu&theme=react-dark" /> </p>
 
 
 
