@@ -6,8 +6,6 @@
 
 <img width="28%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-- 🔭 I’m currently working at [Auratech Company](https://auratechindia.com/)
-
 - 🌱 I’m currently learning **AWS Cloud**
 
 - 💬 Ask me about **MERN Stack Development**
@@ -32,8 +30,10 @@
 </p> 
 <h2 align="center">🔥 Contribution Streak</h2> 
 <p align="center"> <img src="https://streak-stats.demolab.com?user=albenusmurmu&theme=radical" /> </p> 
-<h2 align="center">🏆 GitHub Achievements</h2> 
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=albenusmurmu&theme=radical&row=1&column=6" /> </p> 
+<h2 align="center">🏆 GitHub Achievements</h2>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=albenusmurmu&theme=tokyonight&margin-w=15&margin-h=15"/>
+</p>
 <h2 align="center">📈 Contribution Activity</h2> 
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=albenusmurmu&theme=react-dark" /> </p>
 
