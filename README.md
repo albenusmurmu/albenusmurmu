@@ -34,10 +34,6 @@
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=albenusmurmu&theme=tokyonight&margin-w=15&margin-h=15"/>
 </p>
-## 🏆 GitHub Achievements
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=albenusmurmu&theme=tokyonight&column=7)
-
 <h2 align="center">📈 Contribution Activity</h2> 
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=albenusmurmu&theme=react-dark" /> </p>
 
