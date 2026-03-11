@@ -1,4 +1,3 @@
-<p><img src="https://camo.githubusercontent.com/ffa1dd41670258e216cfa7e0d381009c47fd42716bc242ff9014635cfe19b57e/68747470733a2f2f6a6179616d776562736f6c7574696f6e732e636f6d2f696d616765732f776562736974652e676966" /> </p>
 <h1 align="center">Hi 👋, I'm Albenus Murmu</h1>
 <h3 align="center">I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.</h3>
 
