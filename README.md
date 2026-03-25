@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Albenus Murmu</h1>
 <h3 align="center">
   I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software. 
-  
-  [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-blue)](https://portfolio-yk7h.onrender.com/)
-</h3>
+  h3>
 
 
 ---
@@ -46,7 +44,7 @@
 ---
 
 ## 🤝 Connect With Me
-
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-blue)](https://portfolio-yk7h.onrender.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/albenusm)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/albenusmur63460)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/albenus.pieter)
