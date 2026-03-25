@@ -34,7 +34,7 @@
 <p align="center"> <img src="https://streak-stats.demolab.com?user=albenusmurmu&theme=radical" /> </p> 
 <h2 align="center">🏆 GitHub Achievements</h2>
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=albenusmurmu&theme=tokyonight&margin-w=15&margin-h=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=albenusmurmu&theme=algolia&no-frame=true&margin-w=10"/>
 </p>
 <h2 align="center">📈 Contribution Activity</h2> 
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=albenusmurmu&theme=react-dark" /> </p>
