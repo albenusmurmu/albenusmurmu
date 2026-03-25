@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Albenus Murmu</h1>
 <h3 align="center">
   I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software. 
-  h3>
+</h3>
 
 
 ---
