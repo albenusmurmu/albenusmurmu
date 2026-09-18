@@ -10,10 +10,10 @@
 
 - 🌱 Designation **Software Engineer**
 
-- 💬 Current Role **Zoho**
+- 💬 Current Role **Software Engineer Trainee**
 - 💬 Exploring **Salesforce**
 - 💬 Aim **International**
-- 📫 How to reach me **albenusm@gmail.com**
+- 📫 How to reach me **murmualbenus82@gmail.com**
   
 
 
