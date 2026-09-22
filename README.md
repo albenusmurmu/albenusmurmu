@@ -246,7 +246,6 @@ Currently, I'm working as a **Software Engineer / Software Engineer Trainee**, w
 # ☁️ Cloud & DevOps
 
 • AWS  
-• Google Cloud  
 • Linux  
 • Docker  
 • Containerization  
