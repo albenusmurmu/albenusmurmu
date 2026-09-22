@@ -20,7 +20,7 @@ Currently, I'm working as a **Software Engineer / Software Engineer Trainee**, w
 
 ### 💼 Current Focus
 
-Software Engineer  
+• Software Engineer  
 • Software Engineer Trainee  
 • AI Engineering  
 • Generative AI  
@@ -31,7 +31,7 @@ Software Engineer
 
 ### 🎯 Career Goal
 
-AI Engineer  
+• AI Engineer  
 • Generative AI Engineer  
 • LLM Engineer  
 • Agentic AI Engineer  
@@ -48,7 +48,7 @@ AI Engineer
 
 ## Programming & Computer Science
 
-Python  
+• Python  
 • JavaScript  
 • Java  
 • Deluge Scripting  
@@ -57,7 +57,7 @@ Python
 
 ## Frontend Development
 
-HTML5  
+• HTML5  
 • CSS3  
 • Bootstrap  
 • Tailwind CSS  
@@ -67,7 +67,7 @@ HTML5
 
 ## Backend Development
 
-Node.js  
+• Node.js  
 • Express.js  
 • Django  
 • REST API Development  
@@ -77,7 +77,7 @@ Node.js
 
 ## Databases
 
-SQL  
+• SQL  
 • MySQL  
 • MongoDB  
 • SQLite  
@@ -85,7 +85,7 @@ SQL
 
 ## Development & Productivity Tools
 
-VS Code  
+• VS Code  
 • Jupyter Notebook  
 • Git  
 • GitHub  
@@ -99,7 +99,7 @@ VS Code
 
 ## AI & Generative AI
 
-Generative AI  
+• Generative AI  
 • Large Language Models (LLMs)  
 • LLM Application Development  
 • Prompt Engineering  
@@ -113,7 +113,7 @@ Generative AI
 
 ## LLM Engineering
 
-Hugging Face Transformers  
+• Hugging Face Transformers  
 • OpenAI APIs  
 • Anthropic APIs  
 • Google Gemini APIs  
@@ -127,7 +127,7 @@ Hugging Face Transformers
 
 ## RAG & Knowledge Systems
 
-Retrieval-Augmented Generation (RAG)  
+• Retrieval-Augmented Generation (RAG)  
 • Embeddings  
 • Semantic Search  
 • Vector Databases  
@@ -141,7 +141,7 @@ Retrieval-Augmented Generation (RAG)
 
 ## AI Frameworks & Libraries
 
-PyTorch  
+• PyTorch  
 • Hugging Face Transformers  
 • LangChain  
 • Gradio  
@@ -152,7 +152,7 @@ PyTorch
 
 ## Fine-Tuning & Model Adaptation
 
-LoRA  
+• LoRA  
 • QLoRA  
 • Supervised Fine-Tuning (SFT)  
 • Parameter-Efficient Fine-Tuning (PEFT)  
@@ -161,7 +161,7 @@ LoRA
 
 ## AI Production & Deployment
 
-FastAPI  
+• FastAPI  
 • Docker  
 • Kubernetes  
 • AWS  
@@ -178,14 +178,14 @@ FastAPI
 
 ## MERN Stack
 
-MongoDB  
+• MongoDB  
 • Express.js  
 • React.js  
 • Node.js  
 
 ## Frontend
 
-React.js  
+• React.js  
 • Redux  
 • HTML5  
 • CSS3  
@@ -195,7 +195,7 @@ React.js
 
 ## Backend
 
-Node.js  
+• Node.js  
 • Express.js  
 • Django  
 • REST APIs  
@@ -209,7 +209,7 @@ Node.js
 
 ## Zoho Platform
 
-Zoho Creator  
+• Zoho Creator  
 • Zoho CRM  
 • CRM Modules  
 • Zoho Books  
@@ -219,7 +219,7 @@ Zoho Creator
 
 ## Automation
 
-Deluge Scripting  
+• Deluge Scripting  
 • CRM Automation  
 • Workflows  
 • Blueprints  
@@ -230,7 +230,7 @@ Deluge Scripting
 
 # 🔗 API Integrations
 
-REST APIs  
+• REST APIs  
 • Webhooks  
 • JSON  
 • OAuth 2.0  
@@ -245,7 +245,7 @@ REST APIs
 
 # ☁️ Cloud & DevOps
 
-AWS  
+• AWS  
 • Google Cloud  
 • Linux  
 • Docker  
@@ -261,7 +261,7 @@ AWS
 
 # 🧰 AI / Developer Tool Stack
 
-Python  
+• Python  
 • PyTorch  
 • Hugging Face  
 • Transformers  
@@ -284,7 +284,7 @@ Python
 
 # 🏆 Certifications & Learning
 
-AI Engineer  
+• AI Engineer  
 • Oracle Cloud Infrastructure AI Foundations Associate  
 • Oracle Cloud Infrastructure Foundations Associate  
 • Summer Internship Program  
