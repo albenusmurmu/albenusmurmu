@@ -358,7 +358,7 @@ Cloud + Production AI
         ↓
 AI Engineer / LLM Engineer / AI Software Engineer
 
----
+```
 # 🎯 Goals
 
 Build Production-Ready AI Applications
@@ -369,20 +369,21 @@ Build Production-Ready AI Applications
 • Master Cloud & Production AI Engineering
 • Contribute to Open Source
 • Work on International AI & Software Engineering Opportunities
+```
 
-# 🔥 Follow Me For More!
+## 🔥 Follow Me For More!
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=18D115&width=550&center=true&lines=%F0%9F%94%A5+Build+%E2%80%A2+Learn+%E2%80%A2+Automate+%E2%80%A2+Ship+%F0%9F%9A%80;Made+With+Love+and+Code+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" /> </p>
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=albenusmurmu&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albenusmurmu&layout=compact&theme=radical&hide_border=true" alt="Top Languages" /> </p>
 
-# 🔥 Contribution Streak
+## 🔥 Contribution Streak
 <p align="center"> <img src="https://streak-stats.demolab.com?user=albenusmurmu&theme=radical&hide_border=true" alt="GitHub Streak" /> </p>
 
-# 🏆 GitHub Achievements
+## 🏆 GitHub Achievements
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=albenusmurmu&theme=algolia&no-frame=true&margin-w=10" alt="GitHub Trophy" /> </p>
 
-# 📈 Contribution Activity
+## 📈 Contribution Activity
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=albenusmurmu&theme=react-dark&hide_border=true" alt="Contribution Graph" /> </p>
 
 # 🤝 Connect With Me
