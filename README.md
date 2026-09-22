@@ -16,7 +16,7 @@
 
 I'm a Software Engineer passionate about **Artificial Intelligence, Generative AI, LLMs, Agentic AI, automation, API integrations, and building scalable software**.
 
-Currently, I'm working as a **Software Engineer / Software Engineer Trainee**, while continuously developing my expertise toward **AI Engineering, LLM Engineering, and AI Software Engineering**.
+Currently, I'm working as a **Software Engineer**, while continuously developing my expertise toward **AI Engineering, LLM Engineering, and AI Software Engineering**.
 
 ### 💼 Current Focus
 
@@ -92,6 +92,45 @@ Currently, I'm working as a **Software Engineer / Software Engineer Trainee**, w
 • npm  
 • Postman  
 • Canva  
+
+---
+
+# 📊 Data & Machine Learning
+
+## Data Science & ML Libraries
+
+• NumPy  
+• Pandas  
+• Matplotlib  
+• Seaborn  
+• Scikit-learn  
+• XGBoost  
+• Jupyter Notebook  
+• Google Colab  
+
+## Machine Learning Fundamentals
+
+• Data Preprocessing  
+• Exploratory Data Analysis (EDA)  
+• Feature Engineering  
+• Feature Scaling  
+• Model Training  
+• Model Evaluation  
+• Classification  
+• Regression  
+• Clustering  
+• Cross-Validation  
+• Hyperparameter Tuning  
+
+## Deep Learning
+
+• PyTorch  
+• Neural Networks  
+• CNNs  
+• RNNs  
+• Transformers  
+• Transfer Learning  
+• GPU Acceleration  
 
 ---
 
@@ -183,25 +222,18 @@ Currently, I'm working as a **Software Engineer / Software Engineer Trainee**, w
 • React.js  
 • Node.js  
 
-## Frontend
+## Software Engineering
 
-• React.js  
-• Redux  
-• HTML5  
-• CSS3  
-• Bootstrap  
-• Tailwind CSS  
-• Responsive UI Development  
-
-## Backend
-
-• Node.js  
-• Express.js  
-• Django  
-• REST APIs  
-• Authentication  
+• Full-Stack Development  
+• REST API Development  
+• Backend Development  
 • Database Integration  
-• Server-Side Application Development  
+• Authentication & Authorization  
+• API Integrations  
+• Application Architecture  
+• Version Control  
+• Problem Solving  
+• Data Structures & Algorithms  
 
 ---
 
@@ -261,6 +293,12 @@ Currently, I'm working as a **Software Engineer / Software Engineer Trainee**, w
 # 🧰 AI / Developer Tool Stack
 
 • Python  
+• NumPy  
+• Pandas  
+• Matplotlib  
+• Seaborn  
+• Scikit-learn  
+• XGBoost  
 • PyTorch  
 • Hugging Face  
 • Transformers  
@@ -270,14 +308,18 @@ Currently, I'm working as a **Software Engineer / Software Engineer Trainee**, w
 • Gradio  
 • Chroma  
 • FAISS  
+• tiktoken  
 • FastAPI  
 • OpenAI  
 • Gemini  
 • Anthropic  
 • OpenRouter  
 • TRL  
+• PEFT  
 • Weights & Biases  
 • Modal  
+• Jupyter  
+• Google Colab  
 
 ---
 
@@ -298,7 +340,11 @@ Currently, I'm working as a **Software Engineer / Software Engineer Trainee**, w
 ```text
 Software Engineering
         ↓
-Backend + APIs + Cloud
+Python + Backend + APIs
+        ↓
+Data & Machine Learning Fundamentals
+        ↓
+Deep Learning
         ↓
 Generative AI
         ↓
@@ -308,6 +354,6 @@ RAG + Evaluation
         ↓
 AI Agents + Agentic AI
         ↓
-Production AI Systems
+Cloud + Production AI
         ↓
 AI Engineer / LLM Engineer / AI Software Engineer
