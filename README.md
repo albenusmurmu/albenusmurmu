@@ -369,28 +369,23 @@ Build Production-Ready AI Applications
 • Master Cloud & Production AI Engineering
 • Contribute to Open Source
 • Work on International AI & Software Engineering Opportunities
----
----
+
 # 🔥 Follow Me For More!
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=18D115&width=550&center=true&lines=%F0%9F%94%A5+Build+%E2%80%A2+Learn+%E2%80%A2+Automate+%E2%80%A2+Ship+%F0%9F%9A%80;Made+With+Love+and+Code+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" /> </p>
----
----
+
 # 📊 GitHub Statistics
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=albenusmurmu&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albenusmurmu&layout=compact&theme=radical&hide_border=true" alt="Top Languages" /> </p>
----
----
+
 # 🔥 Contribution Streak
 <p align="center"> <img src="https://streak-stats.demolab.com?user=albenusmurmu&theme=radical&hide_border=true" alt="GitHub Streak" /> </p>
----
+
 # 🏆 GitHub Achievements
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=albenusmurmu&theme=algolia&no-frame=true&margin-w=10" alt="GitHub Trophy" /> </p>
----
----
+
 # 📈 Contribution Activity
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=albenusmurmu&theme=react-dark&hide_border=true" alt="Contribution Graph" /> </p>
----
----
+
 # 🤝 Connect With Me
 <p align="center"> <a href="https://portfolio-yk7h.onrender.com/"> <img src="https://img.shields.io/badge/Portfolio-Visit_Now-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/> </a> <a href="https://linkedin.com/in/albenusm"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://twitter.com/albenusmur63460"> <img src="https://img.shields.io/badge/X-@albenusmur63460-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/> </a> <a href="mailto:murmualbenus82@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> </p>
----
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=albenusmurmu&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> </p> <p align="center"> Made with ❤️ and code by <b>Albenus Murmu</b> </p> ```
