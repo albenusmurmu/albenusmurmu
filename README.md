@@ -358,6 +358,17 @@ Cloud + Production AI
         ↓
 AI Engineer / LLM Engineer / AI Software Engineer
 
+```
+# 🎯 Goals
+
+Build Production-Ready AI Applications
+• Develop RAG & Agentic AI Systems
+• Integrate LLMs with Real Business Applications
+• Build Scalable AI APIs & Backend Systems
+• Strengthen Software Engineering & System Design
+• Master Cloud & Production AI Engineering
+• Contribute to Open Source
+• Work on International AI & Software Engineering Opportunities
 
 ## 🔥 Follow Me For More!
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=18D115&width=550&center=true&lines=%F0%9F%94%A5+Build+%E2%80%A2+Learn+%E2%80%A2+Automate+%E2%80%A2+Ship+%F0%9F%9A%80;Made+With+Love+and+Code+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" /> </p>
