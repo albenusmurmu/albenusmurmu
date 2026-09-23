@@ -18,7 +18,7 @@ I'm a Software Engineer passionate about **Artificial Intelligence, Generative A
 Currently, I'm working as a **Software Engineer**, while continuously developing my expertise toward **AI Engineering, LLM Engineering, and AI Software Engineering**.
 
 ### 💼 Current Focus
-
+<img width="28%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 • Software Engineer  
 • Software Engineer Trainee  
 • AI Engineering  
@@ -28,7 +28,6 @@ Currently, I'm working as a **Software Engineer**, while continuously developing
 • API Integrations  
 • Cloud & DevOps  
 
-<img width="28%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
 ### 🎯 Career Goal
 
